@@ -8,8 +8,7 @@
 
 File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files. It is a **create-your-own-cloud**-kind of software where you can just install it on your server, direct it to a path and access your files through a nice web interface.
 
-https://filebrowser.org/static/example.gif
-
+<center><img src="https://filebrowser.org/static/example.gif" alt="Alt text" width="500" height="300" /></center>
 
 ## Documentation
 
