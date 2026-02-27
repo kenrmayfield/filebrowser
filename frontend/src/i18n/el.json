@@ -42,6 +42,7 @@
     "update": "Ενημέρωση",
     "upload": "Μεταφόρτωση",
     "openFile": "Άνοιγμα αρχείου",
+    "openDirect": "View raw",
     "discardChanges": "Discard",
     "stopSearch": "Stop searching",
     "saveChanges": "Save changes",
@@ -88,7 +89,8 @@
       "comma": "Comma (,)",
       "semicolon": "Semicolon (;)",
       "both": "Both (,) and (;)"
-    }
+    },
+    "fileEncoding": "File Encoding"
   },
   "help": {
     "click": "επιλέξτε αρχείο ή φάκελο",
@@ -232,6 +234,7 @@
     "permissions": "Δικαιώματα",
     "permissionsHelp": "Μπορείτε να ορίσετε τον χρήστη ως διαχειριστή ή να επιλέξετε τα δικαιώματα μεμονωμένα. Αν επιλέξετε \"Διαχειριστής\", όλες οι υπόλοιπες επιλογές θα είναι αυτόματα επιλεγμένες. Η διαχείριση χρηστών παραμένει προνόμιο ενός χρήστη με τον ρόλο του διαχειριστή.\n",
     "profileSettings": "Ρυθμίσεις προφίλ",
+    "redirectAfterCopyMove": "Redirect to destination after copy/move",
     "ruleExample1": "αποκλείει την πρόσβαση σε οποιοδήποτε κρυφό αρχείο (όπως .git, .gitignore) σε κάθε φάκελο.\n",
     "ruleExample2": "αποκλείει την πρόσβαση στο αρχείο με το όνομα Caddyfile στον ριζικό φάκελο της εμβέλειας του κανόνα.",
     "rules": "Κανόνες",

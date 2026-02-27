@@ -42,6 +42,7 @@
     "update": "Обнови",
     "upload": "Качи",
     "openFile": "Отвори файл",
+    "openDirect": "View raw",
     "discardChanges": "Изчисти",
     "stopSearch": "Stop searching",
     "saveChanges": "Запиши промените",
@@ -88,7 +89,8 @@
       "comma": "Comma (,)",
       "semicolon": "Semicolon (;)",
       "both": "Both (,) and (;)"
-    }
+    },
+    "fileEncoding": "File Encoding"
   },
   "help": {
     "click": "избери файл или директория",
@@ -232,6 +234,7 @@
     "permissions": "Разрешения",
     "permissionsHelp": "Можете да зададете потребител да бъде администратор или да изберете разрешения индивидуално. Ако изберете \"Администратор\" всички други опции ще бъдат автоматично отметнати. Управлението на потребителите е привилегия на администратор.\n",
     "profileSettings": "Настройки на Профила",
+    "redirectAfterCopyMove": "Redirect to destination after copy/move",
     "ruleExample1": "предотвратете достъпа до всеки файл започващ с точка (като .git, .gitignore) във всяка папка.\n",
     "ruleExample2": "блокира достъпа до файл именуван Caddyfile поставен в началото за обхвата.",
     "rules": "Правила",
